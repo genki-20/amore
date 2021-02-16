@@ -27,7 +27,7 @@ User.create!(
   email: 'user4@gmail.com',
   password: '11111111',
   name: 'ノア',
-  self_introduction: '東京で美容師をしています。',
+  self_introduction: '東京で美容師をしています。。',
   gender: 0,
   profile_image: open("#{Rails.root}/db/dummy_images/NKJ56_kanaamiyorikakaru_TP_V4.jpg")
 )
